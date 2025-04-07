@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" id="Layer_2" data-name="Layer 2" viewBox="0 0 189.50296 218.70218">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #78b34f;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6 {
+        fill-rule: evenodd;
+      }
+
+      .cls-2 {
+        fill: #1a4665;
+      }
+
+      .cls-3 {
+        fill: #2483b3;
+      }
+
+      .cls-4 {
+        fill: #b1d355;
+      }
+
+      .cls-5 {
+        fill: #90c53e;
+      }
+
+      .cls-6 {
+        fill: #005a8a;
+      }
+    </style>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <g>
+      <polygon class="cls-4" points="114.13002 136.81274 189.50296 171.34522 189.50296 109.76851 114.13002 79.05933 114.13002 136.81274"></polygon>
+      <polygon class="cls-5" points="75.37294 218.70218 189.50296 171.34522 189.50296 109.76851 75.37294 157.31097 75.37294 218.70218"></polygon>
+      <polygon class="cls-1" points="189.50296 171.34522 189.50296 109.76851 119.10567 139.09303 189.50296 171.34522"></polygon>
+      <polygon class="cls-3" points="0 126.59963 75.37294 157.309 75.37294 99.55559 0 65.02292 0 126.59963"></polygon>
+      <polygon class="cls-6" points="0 126.59963 156.70411 61.32393 156.70411 0 0 65.02292 0 126.59963"></polygon>
+      <polygon class="cls-2" points="0 126.59963 70.3973 97.2755 0 65.0237 0 126.59963"></polygon>
+    </g>
+  </g>
+</svg>
