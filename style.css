@@ -1594,14 +1594,22 @@ body.scrolled .header--navbar {
     padding: 25px 0;
     color: #fff;
     background-color: #303030;
-    text-align: center;
 }
 
 /* 13.1. FOOTER COPYRIGHT */
-.footer--copyright a {
-    color: #fff;
-    font-weight: 700;
-    text-decoration: none;
+.footer-menu a{
+    color: red;
+    padding: 5px;
+    
+}
+.footer-menu ul{
+    list-style: square;
+}
+.footer-menu li{
+    padding: 5px;
+    margin: 5px;
+    background-color: white;
+    list-style: none;
 }
 
 /*------------------------------------*\
